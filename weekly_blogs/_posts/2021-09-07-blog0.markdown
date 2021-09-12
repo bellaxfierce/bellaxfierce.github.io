@@ -1,0 +1,12 @@
+layout: post
+title:  "Welcome to Jekyll, Blog0!"
+date:   2021-09-07 17:43:37 -0700
+categories: jekyll update
+
+# Introduction to GitHub
+
+GitHub is a software development community for all to share content. The content usually contains real-time collaborations and group building software projects. GitHub is also a source to network and create with many communities around the world to collaborate.
+
+# Git Commands 
+
+There are many new things that I am learning so far from the class such as the Git commands. There are many Git commands to use for many variations of things. There are 4 Git commands that I am noticing that will be essential for the course I am in: git status, git add ., git commit -m, and git push. These commands are essential to add and make changes to the blogs.
