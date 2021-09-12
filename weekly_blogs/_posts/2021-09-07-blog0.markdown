@@ -1,8 +1,9 @@
+--
 layout: post
 title:  "Welcome to Jekyll, Blog0!"
 date:   2021-09-07 17:43:37 -0700
-categories: jekyll update
-
+categories: blogs
+--
 # Introduction to GitHub
 
 GitHub is a software development community for all to share content. The content usually contains real-time collaborations and group building software projects. GitHub is also a source to network and create with many communities around the world to collaborate.
