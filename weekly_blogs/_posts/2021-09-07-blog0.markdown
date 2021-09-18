@@ -1,13 +1,13 @@
----
 layout: post
-title:  "Welcome to Blog0!"
+title:  "Welcome to Jekyll, Blog0!"
 date:   2021-09-07 17:43:37 -0700
-categories: blogs
----
+categories: jekyll update
+
 # Introduction to GitHub
 
-GitHub is a software development community for all to share content. The content usually contains real-time collaborations and group building software projects. GitHub is also a source to network and create with many communities around the world to collaborate.
+GitHub is a software development community for everyone and anyone who is wanting to share content. The content usually contains real-time collaborations and group building software projects of their likings, almost like a showcase. GitHub is also a source to network and create with many communities around the world to collaborate. GitHub is also  essential to communities like mine, for students like me. It is a new learning environment in able to create and share content with classmates, professors, and even potential hiring managers.
 
 # Git Commands 
 
-There are many new things that I am learning so far from the class such as the Git commands. There are many Git commands to use for many variations of things. There are 4 Git commands that I am noticing that will be essential for the course I am in: git status, git add ., git commit -m, and git push. These commands are essential to add and make changes to the blogs.
+There are many new things that I am learning so far from the class such as the Git commands. There are many Git commands to use for many variations of things. There are 4 Git commands that I am noticing that will be essential for the course I am in: git status, git add ., git commit -m, and git push. I am not familiar with the git commands and glad I am slowly learning from the class. Knowing that each command needs assitance from one another is essential to know in order to create, add, and publish files onto your GitHub account. When I was listening in lecture about these commands, I did not know exactly what they all intended to do. Now that I have practiced on my own through the terminal and saw the results of it on my own. It all makes more sense to me to then learn and then apply the commands so I can have the muscle memory going for the commands and actually see what they are outputting. Being able to practice on how to create, add, and publish has not only helped me with this specific class but also in other classes. Now that I have been able to learn the basics of publishing my content onto GitHub, I have more knowledge on it and have the time to be creative with future content
+
