@@ -1,0 +1,15 @@
+---
+layout: post
+title:  Blog 3!"
+date:   2021-10-8 17:43:37 -0700
+categories: weekly post
+---
+
+# What is Ansible?
+
+Ansible is something I have never heard of till this week in my CIT480 course. Ansible is supposed to be an Information Technology automation tool. This automation tool automates provision, has configuration management, orchestration, application deployment, and many other IT tools. Since Ansible is a multi-tool software for automation, it makes it easier for developers to collaborate and have zero downtime with updates.It makes sense to me now that we are learning about Ansible early on since we will be presenting our senior design projects on information technology automation. 
+
+
+# Configuration Management with Ansible
+
+Since there are many tools within the Ansible software, during this lab we will be using Ansible for configuration management. The configuration management within Ansible is made for automated storage, servers, and networking. This helps with having to repeat the tasks manually and it would be less vulnerable to errors. An interesting requirement that needs to be done within the Ansible software is that a password or SSH key is needed to start managing systems without installing any other agent software and this will avoid the “management the management” problems that sometimes occur during automation systems. Configuration management simplifies the process of the automation framework and the maintenance it comes with. This type of management is used to have a consistent, reliable, and secure process to manage the environment through Ansible. Ansible simply makes IT automation more accessible with configuration management to say the least. Ansible manages the data descriptions of the infrastructure within the automation. With Ansible, there is also a state-driven resource model that helps with the computer system and services, which makes Ansible goal-oriented. With Ansible there are also great measures of secure and agentless since it relies on a secure remote configuration management system through the default transport layer which is OpenSSH. There is a lot to learn and discover from Ansible and glad I am being exposed to this software.

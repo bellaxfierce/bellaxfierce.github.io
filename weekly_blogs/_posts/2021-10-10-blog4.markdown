@@ -1,0 +1,19 @@
+---
+layout: post
+title:  Blog 4!"
+date:   2021-15-8 17:43:37 -0700
+categories: weekly post
+---
+
+# Ansible - Configuration Management LAB
+
+As I wrote last week, I was not familiar with Ansible. This week I was introduced to it more since I started the ansible configuration management lab. For me it gets difficult to start understanding a lab during the lab itself, I go through moments of step reflection. During this lab we had to submit an apache.yml, prometheus.yml and any other files that I set up to work with Ansible. We initially have to set up either a Docker container, VirtualBox VM for Vagrant box. For this lab I decided to continue using Docker for this install set up since I am more familiar with Docker than the rest of the OS image setups. This initial set up is to test my ansible playbooks and to test through localhost. 
+
+
+# Ansible - Playbook
+
+When reading through this lab I was not familiar with what a playbook is, more specifically an ansible playbook. An ansible playbook is commonly known to have a blueprint of the automation tasks. These tasks  are used more to execute on a set, group, or classification of hosts. During the lab I learned the command “ $ ansible-playbook -i localhost <NAME_OF_PLAYBOOK>.” Since it is my first time working with Ansible, I was confused on how everything worked and how the localhost connected with the playbook. There was trial and error when it came to run my localhost with the ansible playbook localhost command because I had errors on my apache.yml. My apache.yml playbook at first didn’t have my apache wasn't set up correctly. I was using the wrong Apache configuration modules and that is what set me behind on connecting my localhost. It is important to install every.
+
+# Final Thoughts
+
+I’ve noticed I make the most simplest mistakes when it comes to my labs. I'm glad I am able to understand the material and practice it myself. This Ansible Configuration Management lab definetly is a good way to open up to Ansible itself and practice with playbooks. 
