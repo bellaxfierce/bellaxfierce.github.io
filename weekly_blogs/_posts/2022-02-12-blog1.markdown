@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Blog 1"
+date:   2022-02-12 17:43:37 -0700
+categories: weekly post
+---
+
+# Terraform and Ansible Playbook
+
+During this week I learned a little more about terraform and how it works with ansible playbooks. Through my update with my ansible playbooks with the web server and deployment with terraform, I learned that deploying through my local host was the most efficient way to deploy. I had some struggles with our project's ansible playbook such as the terraform deployment. I had to make sure that our variables on the ansible playbook were correct with the terraform in order to deploy. It was a struggle that I had to figure out. Once I was able to figure out how to deploy through my ansible playbook it became easier to understand. I had some struggles such as finding the right directory where the terraform files were at because they needed to be deployed. I was able to make a docker file documentation and connect it through the repository that was through github. Once that was settled, I had a bigger understanding on how terraform works. When I tried to work with the deployment ansible playbook, I had to figure out what variables had to be written in order to install the terraform package. It was pretty confusing at first but iI found my way with the help of the internet. I also found out that I had to install and update packages through homebrew to install the terraform files, not only that but make sure that everything was up to date. Overall, finalizing the ansible playbooks with the web server and the terraforms was a hard time for me since I have not been involved with this concept since fall semester.  I am glad I had a better understanding about the ansible playbook this time around and hope to learn more about it. I do see myself progressing in this subject and continue to do so.
