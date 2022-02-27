@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Blog 2"
+date:   2022-02-26 17:43:37 -0700
+categories: weekly post
+---
+
+# Nginx
+
+Recently I have been learning the software called Nginx. This is my first time knowing about it and so far I have learned that it is an open source software for web serving, caching, load balancers, media streaming, reverse proxying, and many more other stuff. What I have read, looked up, and talked about with my peers is that it is mostly used for web servers since it has a maximum stability and performance rate. Using Nginx can be user friendly since the set up for the web servers is fairly simple. Since right now my group and I are trying to post our blog for our project, we decided to go through Nginex. Knowing how to launch through AWS is important as my team and I transition to our next process of our project. The steps for Nginex to be setup with Amazon Web Services is fairly easy as all you need is to make sure you have EC2 instances, have Ubuntu Server with the Amazon Machine Image, and SSH connection. I questioned when I thought that both Nginex and Amazon Web Services are both web server sources. One thing I found out is that using Nginx can help have a more smooth deployment with the Amazon Web Services load balance traffic. Most people like to use both services when there is high traffic volume, but for our project we are mainly using it to deploy our blog. We will be using load balancers that will help Nginx distinguish the deployment such as HTTP load balancers. Having HTTP load balancers from Amazon Web Services to Nginx will help incoming HTTP and HTTPS requests be smoother. Overall, the setup with our blog will be a little difficult only on the fact that most of my team and I are not familiar with all that we have learned so far. As to be more clear, this is our first time actually implementing our learning skills into an actual project.
