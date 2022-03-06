@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Blog 3"
+date:   2022-03-05 17:43:37 -0700
+categories: weekly post
+---
+
+# IP address
+
+
+
+Ip addresses are internet protocol addresses that are in a number, such as 127.0.0.1. Ip addresses are mainly used for connections between devices, such as sending and receiving messages and information from device through the network. These IP addresses are unique numbers that are from the devices and travel through the internet, without a device having its unique IP address then it will have no contact to whatsoever from any device. One thing I have discovered this week is that IP addresses are also used for phone lines. It makes sense that phones also need an IP address since they connect from network to another device through the IP address. When you dial a phone number, your phone number and the phone number you are trying to dial, the endpoint, connects through IP addresses. This week at my job there was an installation of a new server for a site. The site needed a new phone server and switch, things were working well till we weren’t able to connect through the server when we tried to use the remote support. We were not sure why we were not able to connect to the server since we had the right IP address. We tried to ping when we got to the site and it wasn’t working, we thought the server was down but we rebooted and it was working. One thing we found out about the server is that when we ifconfig, we saw that the wrong IP address was used. I have found out that maybe who connected the server, they didnt put in the right Ip address. Another reason why the IP address was not the right one was because it was not set in the first place. The command that I used to set the right IP address was “ifconfig em2 10.10.10.10”. After setting the IP address, the server was connected. 
+
