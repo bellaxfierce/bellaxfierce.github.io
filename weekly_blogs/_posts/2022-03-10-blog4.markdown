@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Blog 4"
+date:   2022-03-10 17:43:37 -0700
+categories: weekly post
+---
+
+# Ansible Playbook Packages
+
+This week I got myself into trouble when I was working on my group project. I was trying to figure out how to install nginx packages and clone our blogs github through the ansible playbook. I was first thinking of making two ansible playbooks, one for the nginx and one for the github cloning for the repository, but it would be more work for having multiple yml files rather than having one. Instead of running multiple commands to execute the ansible playbook, I merged the playbooks together into one. Once I merged the two plabooks together I had an error with my github cloning playbook portion. When I was making the ansible playbook for the github cloning, I had all the variables listed correctly but one thing I left out was that I did not install the git package. Not having the git package for ansible playbook, gave the error message that there was no way of locating the github link that was stated for the repository. Once the packages were listed, all was going well. Since I was trying to locate the github repository onto my localhost, I was not successful the first time. I have noticed that I was using the wrong github cloning link for the repository to publish on my localhost. Once I replaced the link I had to the correct cloning github link, I was able to run the ansible playbook correctly. When I was trying to open up the blogs from my localhost repository, I was only able to download the files of each blog rather than viewing them as a regular HTML file. One thing I found out about the situation is that my localhost only ran HTML files and not Jekyll. So in order for me to fix this I had to install jekyll packages and builder packages. Once all the tools for Jekyll were installed, I was able to locate the github repository through my localhost in HTML.
