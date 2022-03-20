@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Blog 4"
+date:   2022-03-10 17:43:37 -0700
+categories: weekly post
+---
+
+# HTML
+
+Html stands for Hpertext Markup Language and is a typ of code to use for web paged. Web pages are used in all sorts of things and always get updated from time to time. HTML web pages perform a set of structure such as paragraphs, bullet points, images, and other sort of information format styles. 
