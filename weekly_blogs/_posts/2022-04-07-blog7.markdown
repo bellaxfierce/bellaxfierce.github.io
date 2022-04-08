@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Blog 7"
+date:   2022-04-07 17:43:37 -0700
+categories: weekly post
+---
+
+# NIC & Chips 
+
+
+Hello this past week I have had to deal with the network interface card during my work. There is a project going on with adding a new phone server. This new phone server has to be set up correctly in order to run the IP addresses correctly into every phone line that has to be assigned. When installing the network interface card, we added two network chipsets. Network chipsets are network sources that allow the network interface card to communicate and expand their communication with the devices. When we installed the new network chipsets, they were not being registered by the server itself. One troubleshooting I did was switch the new NIC chips to where the original chips came with and see if it is the chips or the NIC card itself. When I did that only one slot from where the new NIC chips were at was being registered from the server. From there I had to switch both the two new NIC chips to see if it was the slot or the chip again because not all were being registered on the server. When I switched the NIC chips to different slots, the one that was working was being registered and the other new chip was still not being registered. At that point in time, I thought the NIC chips were not working, but rather it ended up being the NIC chip slots. Once I was able to figure out that the chip itself was working and not the slots, my team and I were able to start the process to configure the VLAN for the site. 
