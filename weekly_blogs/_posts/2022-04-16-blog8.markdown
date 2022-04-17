@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Blog 8"
+date:   2022-04-16 17:43:37 -0700
+categories: weekly post
+---
+
+# IT Infrastructure 
+
+Information Technology infrastructure is when there are components and such that help complete or manage an Information Technology environment. An information technology infrastructure usually consists of hardware, software, location, and business system supports that help start the information technology infrastructure. There are three different type of information technology infrastructure, and those are software, cloud, and infrastructure as a service (Iaas).
+
+
