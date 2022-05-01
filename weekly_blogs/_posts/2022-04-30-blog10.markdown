@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Blog 10"
+date:   2022-04-30 17:43:37 -0700
+categories: weekly post
+---
+
+#  IT CYBERSECURITY 
+
+Information technology is to be in everything on a day to day basis. We mainly use it for work or school and even at home. One main thing that comes with information technology is that there needs to be security. Information technology cyber security is the main term for when it comes to the practice of protecting and making sure that all networks and programs are digitally secure from any malicious hacking. One of the main targets for cyber security are emails, such as malicious and phishing emails. Phishing is when attackers steal data such as personal information. Most personal information consists of credit card numbers and login credentials. How victims get set up in this trap is by clicking on links from malicious emails or even text messages. If you were to be a victim of phishing emails is to change your passwords with different characters and not something as common as your name. Another way to prevent from this on happening is having a multi-factor authentication to prevent from anyone else logging in to your account. Now for helping with malicious attackers from getting your credit card information is to not save your credit cards on any pages or websites. In order for me to protect my email getting phished, I use the multi-factor authentication. I use that method because everytime I log in to my account, I get a notification to allow myself to log in. This makes sure the user is the actual person and not allowing anyone else to enter the account. People need to understand that not every email is safe to open, especially when it’s something you aren’t subscribed with or recognize where it comes from. It is important to keep your information only to yourself and not to give it out in case you get hacked.
